@@ -4,3 +4,5 @@ un demo de lucru cu branch-uri
 Va contine retete
 
 modificare
+
+Retetarul se vede [aici](./retetar.md)
