@@ -1,5 +1,5 @@
 Clatite
 
-lapte
-oua
-faina
+- lapte
+- oua
+- faina
