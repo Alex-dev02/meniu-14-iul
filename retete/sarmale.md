@@ -1,4 +1,4 @@
-# sarmale
+# Sarmale
 
 - orez
 - Foi de varza murata

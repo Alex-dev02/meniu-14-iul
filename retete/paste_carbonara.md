@@ -1,4 +1,4 @@
-# paste carbonara
+# Paste carbonara
 
 - paste
 - sos carbonara All-in-1
