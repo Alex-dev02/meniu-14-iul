@@ -1,4 +1,6 @@
 # retetar
 un demo de lucru cu branch-uri
 ## Descriere
-va contine retete
+Va contine retete
+
+modificare
